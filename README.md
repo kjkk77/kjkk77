@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjkk77
+- 👋 Hi, I’m Hongjoon!
 - 👀 I’m interested in computational statistics and data visualization.
 - 🌱 I study mathematics and statistics, along with useful tools like MySQL, R, and Tableau.
 - 💞️ I’m looking to collaborate on any kind of data-related projects.
