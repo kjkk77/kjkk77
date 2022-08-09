@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kjkk77
 - 👀 I’m interested in computational statistics and data visualization.
-- 🌱 I’m currently learning MySQL and Tableau.
+- 🌱 I study mathematics and statistics, along with useful tools like MySQL, R, and Tableau.
 - 💞️ I’m looking to collaborate on any kind of data-related projects.
 - 📫 How to reach me: hongjoon0410@gmail.com
 
